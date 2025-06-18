@@ -9,4 +9,3 @@ Bu proje, özel biri için hazırlanmış web sitesidir. Red yersem yazarım
 - 📱 Mobil uyumlu, sade ve anlamlı bir tasarım
 
 
-```bash
